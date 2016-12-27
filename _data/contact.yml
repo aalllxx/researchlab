@@ -1,0 +1,21 @@
+# contact section data
+- last_name: Feldman
+  first_name: Rich
+  pic: '/static/img/rich.png'
+  desc: 'Chief Scientist'
+  linkedin: 'https://www.linkedin.com/in/feldmanresearch'
+  email: 'rich@researchlab.tv'
+
+
+- last_name: '201-833-9607'
+  pic: '/static/img/researchlab.gif'
+  desc: '119 Cherry Lane<br>Teaneck, NJ 07666'
+
+
+
+- last_name: Feldman
+  first_name: Pete
+  pic: '/static/img/pete.png'
+  desc: 'Vice President.'
+  linkedin: 'linkedin.com/'
+  email: 'pete@researchlab.tv'

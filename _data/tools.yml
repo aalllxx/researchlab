@@ -1,0 +1,49 @@
+# careers section data
+- name:
+    detail: Dials
+    i18n: dials
+  desc:
+    detail: Dials are the tool to use for any segment-driven program—news, sports, magazines, reality and infomercials.  In the hands of the skilled analysts at Feldman Research Lab, dial research results in tangible improvements to your programming.
+    i18n: dials_des
+  job:
+    detail: Dial manager
+    i18n: Dial_job
+  icon: fa-sliders
+
+
+- name:
+    detail: Strategic Consulting
+    i18n: stratcons
+  desc:
+    detail: Feldman Research Lab’s consulting focus is on using existing information to create sales presentations, business plans or other strategic purposes.  We work on either a short or long term basis, and can serve as a source of expertise without adding to your headcount.  Rich Feldman is also available to consult for research suppliers needing his wide range of skills. Managing and analyzing ratings data is another strength of the Lab.  We can work with you to get the most value out of ratings data and use it to create winning sales presentations.
+    i18n: stratcons_des
+  job:
+    detail: aksf
+    i18n: stratcons_job
+  icon: fa-gamepad
+
+- name:
+    detail: Peer to Peer
+    i18n: p2p
+  desc:
+    detail: "Our current goals for DCIA research are to: 
+<br>· Understand the ways consumers use file sharing and traditional content distribution.
+<br>· Test consumer acceptance of various scenarios for shifting downloading from unlicensed to licensed material.
+<br>· Model behavior to determine the optimal product offerings and price points for different types of content.
+<br>· Develop marketing strategies to encourage users to act as our clients want them to."
+    i18n: p2p_des
+  job:
+    detail: asdfasdf
+    i18n: p2p_job
+  icon: fa-cloud
+
+- name:
+    detail: Primary Research 
+    i18n: pr
+  desc:
+    detail: We are experts in both qualitative and quantitative research.  Rich Feldman has moderated hundreds of groups on almost every topic in the media and entertainment industries.  He is skilled with children, teens and adults and has used instantaneous response dials, conducted user interface tests and other group technologies.  And, Rich runs a fun group.<br>Our quantitative studies include everything from advertising  effectiveness to product development.  Whether a straight-forward telephone interview or complex computer assisted conjoint study, every project is custom designed to provide the answers our clients need.  We’re also happy to partner with other firms that have unique technologies that are appropriate for your project.<br>Probably the greatest benefit of using Feldman Research Lab for primary research is the consulting we include as part of the project. We won’t begin until we fully understand your business needs, and don’t complete a job until all the users of the data have learned everything they feel they need to know.
+    i18n: pr_des
+  job:
+    detail: asasdfdf
+    i18n: pr_job
+  icon: fa-book

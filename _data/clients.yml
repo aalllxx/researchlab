@@ -1,0 +1,18 @@
+# projects section data
+- name: 'ESPN'
+  i18n: 'espn'
+  url: 'http://espn.com'
+  img: 'static/img/clients/espn.gif'
+  desc: 'sample text'
+
+- name: 'STARZ'
+  i18n: 'starz'
+  url: 'http://starz.com'
+  img: 'static/img/clients/starz.jpg'
+  desc: "STARZ network is..."
+
+- name: 'NHL Network'
+  i18n: 'nhl'
+  url: 'htpp://NHL.com'
+  img: 'static/img/clients/nhl.gif'
+  desc: "NHL network does things."
